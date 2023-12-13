@@ -40,8 +40,13 @@ Adjustments and Considerations:
 Limitations:
 - This is a basic system, and it may not differentiate between multiple people or account for environmental factors affecting sensor readings.
 - The real-world effectiveness may vary based on sensor accuracy, placement, and environmental conditions.
+
 Remember, this explanation is based on the provided code and assumes ideal conditions. In real-world scenarios, testing and adjustments may be necessary for optimal performance.
 
 # FLOW CHART
 ![Blank board](https://github.com/rashi12122001/smart-home-intrusuion-system/assets/74211043/bded018b-fd96-474e-9d78-97c1f3a87142)
 
+# RESULTS
+The results underscore the project's success in creating an intelligent, responsive, and user-centric smart home security system. This innovation paves the way for enhanced security paradigms in contemporary living spaces, reflecting the potential of IoT technologies and Arduino integration in redefining home security standards.
+
+![image](https://github.com/rashi12122001/smart-home-intrusuion-system/assets/74211043/3f84b32a-2bee-49f8-ae3e-e5b4d4fd601f)
