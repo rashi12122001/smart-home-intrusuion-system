@@ -1,3 +1,5 @@
+# CONTRIBUTORS:-
+
 # ABOUT
 This Project endeavors to revolutionize home security through the development of a sophisticated smart home application system designed for intruder detection. Leveraging the synergies of Internet of Things (IoT) technologies, including Light Dependent Resistor (LDR), ultrasonic, touch, and Infrared (IR) sensors, integrated with an Arduino-based hardware platform, the system provides a comprehensive solution for enhanced security and user-centric experiences.
 The hardware design phase navigates the intricacies of seamlessly integrating diverse sensors into a cohesive framework, ensuring optimal placement and calibration. The software development involves crafting a robust codebase for the Arduino microcontroller, incorporating algorithms that enable real-time interpretation of sensor data, distinguishing between normal environmental fluctuations and potential intruder activities.
