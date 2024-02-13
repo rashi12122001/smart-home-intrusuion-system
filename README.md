@@ -1,5 +1,6 @@
 # CONTRIBUTORS:-
 Kshitij Saini
+<br>
 Rashi Arora
 # ABOUT
 This Project endeavors to revolutionize home security through the development of a sophisticated smart home application system designed for intruder detection. Leveraging the synergies of Internet of Things (IoT) technologies, including Light Dependent Resistor (LDR), ultrasonic, touch, and Infrared (IR) sensors, integrated with an Arduino-based hardware platform, the system provides a comprehensive solution for enhanced security and user-centric experiences.
