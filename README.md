@@ -10,7 +10,7 @@ This research contributes to the broader discourse on the integration of IoT tec
 1)LDR Sensor
 2)Ultrasonic Sensor
 3)Arduino UNO
-4)IR Sensor
+4)PIR Sensor
 5)Touch Sensor
 # CIRCUIT DIAGRAM
 ![CIRCUIT DIAG](https://github.com/rashi12122001/smart-home-intrusuion-system/assets/74211043/2c956634-f5a2-4011-936f-b23da7e78f1d)
