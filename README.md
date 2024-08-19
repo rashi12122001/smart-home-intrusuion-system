@@ -6,6 +6,7 @@ Rashi Arora
 This Project endeavors to revolutionize home security through the development of a sophisticated smart home application system designed for intruder detection. Leveraging the synergies of Internet of Things (IoT) technologies, including Light Dependent Resistor (LDR), ultrasonic, touch, and Infrared (IR) sensors, integrated with an Arduino-based hardware platform, the system provides a comprehensive solution for enhanced security and user-centric experiences.
 The hardware design phase navigates the intricacies of seamlessly integrating diverse sensors into a cohesive framework, ensuring optimal placement and calibration. The software development involves crafting a robust codebase for the Arduino microcontroller, incorporating algorithms that enable real-time interpretation of sensor data, and distinguishing between normal environmental fluctuations and potential intruder activities. This device is a budget-friendly project.
 This research contributes to the broader discourse on the integration of IoT technologies in home security, providing insights into the advancements and potential future innovations in the field. The developed smart home application system signifies a significant stride towards fortifying security, convenience, and user-centric experiences in contemporary living environments. The amalgamation of various technologies, coupled with iterative. 
+
 # COMPONENTS USED
 1)LDR Sensor
 2)Ultrasonic Sensor
@@ -54,3 +55,7 @@ Remember, this explanation is based on the provided code and assumes ideal condi
 The results underscore the project's success in creating an intelligent, responsive, and user-centric smart home security system. This innovation paves the way for enhanced security paradigms in contemporary living spaces, reflecting the potential of IoT technologies and Arduino integration in redefining home security standards.
 
 ![image](https://github.com/rashi12122001/smart-home-intrusuion-system/assets/74211043/3f84b32a-2bee-49f8-ae3e-e5b4d4fd601f)
+
+# ANALYSIS
+1)the data is fetched using Arduino UNO ESP module in thingspeak.
+2)the dataset is expanded further is analysed using Power BI.
